@@ -11,7 +11,7 @@ img {
  
  /* Welcome */
 
-h1 {
+.header {
     width: auto;
     height: 48px;
     left: 253px;
